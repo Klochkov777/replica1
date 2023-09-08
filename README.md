@@ -19,9 +19,9 @@
 
 ### Задание 2
 на первом скрине показаны статусы master и slave. На втором, третьем, четвертом: проверка, что оно фактически работает (создал базу данных с таблицей на мастере ти вставил данные, все то же самое отобразилось в реплике). Пятый - просто что оба сервера запущено. Шестой- скрины конф файлов.
-* [link to screen]()
-* [link to screen]()
-* [link to screen]()
-* [link to screen]()
-* [link to screen]()
-* [link to screen]()
+* [статусы мастера и слэйва](https://github.com/Klochkov777/replica1/blob/master/screens/1.png)
+* [проверка работы начало](https://github.com/Klochkov777/replica1/blob/master/screens/2.png)
+* [проверка работы продолжение](https://github.com/Klochkov777/replica1/blob/master/screens/3.png)
+* [проверка работы вывод](https://github.com/Klochkov777/replica1/blob/master/screens/4.png)
+* [статусы  что оба сервиса запущено](https://github.com/Klochkov777/replica1/blob/master/screens/5.png)
+* [конфигурационные файлы](https://github.com/Klochkov777/replica1/blob/master/screens/6.png)
